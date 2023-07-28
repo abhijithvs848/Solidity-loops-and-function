@@ -29,8 +29,7 @@ for (uint i = 0; i < 10; i++) {
 }
 
 ## Author
-@abhijithvs
-Twitter - https://twitter.com/iamtadashibitch
+@subramanian
 
 
 ## License
